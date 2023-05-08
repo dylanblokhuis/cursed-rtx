@@ -1,0 +1,6 @@
+/target
+remix-*.zip
+metrics.txt
+dx9.*
+dx9_d3d9.log
+/rtx-remix
