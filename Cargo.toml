@@ -6,6 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+block-mesh = "0.2.0"
+dot_vox = "5.1.1"
 glam = "0.24.0"
 libloading = "0.8.0"
 windows = { version = "0.48.0", features = [

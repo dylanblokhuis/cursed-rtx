@@ -4,3 +4,5 @@ metrics.txt
 dx9.*
 dx9_d3d9.log
 /rtx-remix
+imgui.ini
+run.bat
